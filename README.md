@@ -1,4 +1,5 @@
 # Sentences Synthetizer
+Project for the Phonetics course
 
 This repository contains a Jupyter Notebook for synthesizing and processing sentences. The notebook utilizes several Python libraries to achieve its functionalities, including `parselmouth`, `textgrids`, `re`, and `matplotlib`.
 
